@@ -50,6 +50,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
  
 ---
+# 🐍 Contribution Graph
+ 
+![snake gif](https://github.com/ArnavParmaj/ArnavParmaj/blob/output/github-contribution-grid-snake-dark.svg)
  
 # 🏙️ Isometric Contributions
  
