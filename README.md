@@ -17,7 +17,7 @@
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav.parmaj) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavparmaj) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavparmaj9@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2140534f40575140534c404b1861464c40484d0f424e4c">[email&#160;protected]</a>) 
  
 ---
  
@@ -51,13 +51,13 @@
  
 ---
  
-# 🐍 Contribution Graph
+# 🏙️ Isometric Contributions
  
-![snake gif](https://github.com/ArnavParmaj/ArnavParmaj/blob/output/github-contribution-grid-snake-dark.svg)
+![Metrics](github-metrics.svg)
  
 ---
  
-# 📈 Activity
+# 📈 Contribution Activity
  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArnavParmaj&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
@@ -71,8 +71,4 @@
 ---
  
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArnavParmaj&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
- 
----
- 
-[![](https://visitcount.itsvg.in/api?id=ArnavParmaj&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=ArnavParmaj&theme=tokyonight&no-frame=false&no
