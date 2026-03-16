@@ -2,25 +2,25 @@
 <p align="center">
   <i>Cybersecurity • AI/ML • Systems • Building by breaking</i>
 </p>
-
+ 
 ---
-
+ 
 # 🚀 About Me
-
+ 
 - 🧠 3rd year Engineering student  
 - 🛠️ Exploring Cybersecurity and AI/ML through hands-on building  
 - 📱 Occasionally experimenting with iOS development  
 - ⚡ I learn by breaking things, understanding why they fail, and rebuilding them better  
-
+ 
 ---
-
+ 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav.parmaj) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavparmaj) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavparmaj9@gmail.com) 
-
+ 
 ---
-
+ 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
@@ -48,24 +48,31 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)  
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
+ 
 ---
-
-# 🔥 3D Contributions
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+ 
+# 🐍 Contribution Graph
+ 
+![snake gif](https://github.com/ArnavParmaj/ArnavParmaj/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 ---
-
+ 
+# 📈 Activity
+ 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArnavParmaj&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+---
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArnavParmaj&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ArnavParmaj&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavParmaj&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+ 
 ---
-
+ 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArnavParmaj&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
+ 
 ---
-
+ 
 [![](https://visitcount.itsvg.in/api?id=ArnavParmaj&icon=0&color=0)](https://visitcount.itsvg.in)
