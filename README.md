@@ -7,7 +7,7 @@
  
 # 🚀 About Me
  
-- 🧠 3rd year Engineering student  
+- 🧠 Final year Engineering student  
 - 🛠️ Exploring Cybersecurity and AI/ML through hands-on building  
 - 📱 Occasionally experimenting with iOS development  
 - ⚡ I learn by breaking things, understanding why they fail, and rebuilding them better  
